@@ -2,4 +2,4 @@ How To Download 1: Download Modlist (There is an option to download everything i
 
 Note: -By the YOUR-PC-NAME section you need to write the name of your pc -I have my Ravenfield on my C disc but if you don't have that, change the C to whatever you called your disc
 
-Ps. The reason I have my Configs on Github is that uploading configs is annoying and I'm not gonna do it 8 times, if you want to upload my configs you are allowed to do that, just give me a link so that I can add it in the steam description.
+Ps. The reason I have my Configs on Github is that uploading configs is annoying and I'm not gonna do it X amount of times, if you want to upload my configs you are allowed to do that, just give me a link so that I can add it in the steam description.
